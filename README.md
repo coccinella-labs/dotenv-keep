@@ -1,5 +1,7 @@
 # dotenv-keep
 
+[![Release](https://img.shields.io/github/v/release/libnudget/dotenv-keep?logo=github&label=latest)](https://github.com/libnudget/dotenv-keep/releases)
+
 Keep environment variable names in sync across repos.
 
 dotenv-keep compares your `.env.example` against the variables referenced
@@ -9,7 +11,7 @@ catches the silent misconfiguration that only shows up in production.
 ## Installation
 
 ```sh
-pip install git+https://github.com/libnudget/dotenv-keep@v0.1.0
+pip install git+https://github.com/libnudget/dotenv-keep
 ```
 
 ## Usage
