@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/dotenv-keep/main/.github/assets/thumbnail.png" alt="dotenv-keep" width="100%">
+</p>
+
 # dotenv-keep
 
 [![Release](https://img.shields.io/github/v/release/libnudget/dotenv-keep?logo=github&label=latest)](https://github.com/libnudget/dotenv-keep/releases)
