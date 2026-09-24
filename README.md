@@ -4,7 +4,7 @@
 
 # dotenv-keep
 
-[![Release](https://img.shields.io/github/v/release/libnudget/dotenv-keep?logo=github&label=latest)](https://github.com/libnudget/dotenv-keep/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/dotenv-keep?logo=github&label=latest)](https://github.com/coccinella-labs/dotenv-keep/releases)
 
 Keep environment variable names in sync across repos.
 
@@ -15,7 +15,7 @@ catches the silent misconfiguration that only shows up in production.
 ## Installation
 
 ```sh
-pip install git+https://github.com/libnudget/dotenv-keep
+pip install git+https://github.com/coccinella-labs/dotenv-keep
 ```
 
 ## Usage
