@@ -18,5 +18,5 @@ Please open an issue to discuss changes before submitting a pull request.
 - Keep documentation up to date.
 - Match the project's MIT license and existing code style.
 
-See the [libnudget website](https://libnudget.github.io) for the project's
+See the [coccinella-labs website](https://coccinella-labs.github.io) for the project's
 philosophy and standards.
